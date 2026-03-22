@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+ultralytics
+flask
+pillow
+requests
+psutil
+python-dotenv
