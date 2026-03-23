@@ -10,8 +10,10 @@ An AI-powered road accident detection and emergency response system that detects
 |------|------|
 | Gopika | Core Detection Engine (YOLO, collision logic, severity estimation, email alerts) |
 | Abhirami | Notification System (real-time dashboard, SocketIO, role-based login, insurance flow) |
+Aiswarya Rajeev Nair
+Anola Saju
 
-**Supervised by:** Dr. Bharathi Mohan G — Amrita School of Computing, Chennai
+**Supervised by:** 
 
 ---
 
@@ -226,4 +228,4 @@ ROLE_PASSWORDS = {
 
 ## 📄 License
 
-Built for educational purposes as a final year project — Amrita Vishwa Vidyapeetham, Chennai.
+Built for educational purposes as a final year project — LBS Institute of technology trivandrun.
